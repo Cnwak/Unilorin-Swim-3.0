@@ -514,7 +514,7 @@ button {
   }
 }
 
-@media (max-width: 418px) {
+@media (max-width: 390px) {
   #test-text {
     display: none;
   }
